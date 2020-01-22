@@ -1,0 +1,5 @@
+18:27:44,661 DEBUG Log:42 - loading config file
+18:27:44,665  INFO Log:22 - Browser current is chrome
+18:27:44,665  INFO Log:22 - starting browser
+18:27:46,306  INFO Log:22 - started chrome browser
+18:27:47,377  INFO Log:22 - Passed
